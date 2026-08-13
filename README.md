@@ -35,3 +35,4 @@ netflix-clone/
 │   └── ... (modular JS components and utilities)
 └── README.md
 ```
+"# Netflix-Clone" 
