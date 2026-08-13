@@ -1,6 +1,6 @@
 # 🎬 Netflix Landing Page Clone
 
-A **responsive Netflix-inspired landing page** built using **HTML5, CSS3, and Vanilla JavaScript (ES6 Modules)**. This project recreates the modern Netflix homepage with a clean UI, smooth interactions, and a fully responsive layout across desktop, tablet, and mobile devices.
+A **responsive Netflix-inspired landing page** built using **HTML5, CSS3, and Vanilla JavaScript (ES6 Modules)**. This project recreates Netflix's modern landing page with a clean user interface, smooth interactions, and a fully responsive design across desktop, tablet, and mobile devices.
 
 > ⚠️ **Disclaimer:** This project is created for educational purposes only and is not affiliated with or endorsed by Netflix.
 
@@ -8,7 +8,7 @@ A **responsive Netflix-inspired landing page** built using **HTML5, CSS3, and Va
 
 ## 🚀 Live Demo
 
-🔗 **Live Website:** https://soham5128.github.io/Netflix-Clone/
+🌐 **Live Website:** https://soham5128.github.io/Netflix-Clone/
 
 📂 **GitHub Repository:** https://github.com/SOHAM5128/Netflix-Clone
 
@@ -16,36 +16,41 @@ A **responsive Netflix-inspired landing page** built using **HTML5, CSS3, and Va
 
 ## 📸 Preview
 
-> Add screenshots of your project here.
+<p align="center">
+  <img src="./screenshots/home%20page.png" alt="Netflix Landing Page Preview" width="100%">
+</p>
 
-| Desktop | Mobile |
-|---------|--------|
-| ![Desktop Screenshot](assets/images/desktop-preview.png) | ![Mobile Screenshot](assets/images/mobile-preview.png) |
-
-> **Note:** Replace the image paths with your actual screenshots.
+> **Tip:** Rename the screenshot to `netflix-homepage.png` and update the image path accordingly for cleaner file naming.
 
 ---
 
 ## ✨ Features
 
-- 🎯 Pixel-perfect Netflix-inspired UI
+- 🎯 Netflix-inspired modern UI
 - 📱 Fully Responsive Design
-- 🌐 Language Selector
+- 🌍 Language Selection Dropdown
 - 📧 Email Input Validation
 - 🎥 Trending Movies Section
 - ❓ Interactive FAQ Accordion
-- ⚡ Smooth User Experience
-- 🧩 Modular CSS & JavaScript Structure
-- 📦 Clean and Maintainable Code
+- ⚡ Smooth Animations & Transitions
+- 🧩 Modular CSS & JavaScript Architecture
+- 🖥️ Cross-browser Compatibility
+- 🚀 Optimized Performance
 
 ---
 
 ## 🛠️ Built With
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
 - HTML5
 - CSS3
 - JavaScript (ES6 Modules)
-- Git & GitHub
+- Git
+- GitHub
+- VS Code
 
 ---
 
@@ -53,9 +58,6 @@ A **responsive Netflix-inspired landing page** built using **HTML5, CSS3, and Va
 
 ```text
 Netflix-Clone/
-│
-├── index.html
-├── README.md
 │
 ├── assets/
 │   ├── icons/
@@ -68,16 +70,22 @@ Netflix-Clone/
 │   ├── faq.css
 │   └── ...
 │
-└── js/
-    ├── main.js
-    ├── navbar.js
-    ├── faq.js
-    └── ...
+├── js/
+│   ├── main.js
+│   ├── navbar.js
+│   ├── faq.js
+│   └── ...
+│
+├── screenshots/
+│   └── home page.png
+│
+├── index.html
+└── README.md
 ```
 
 ---
 
-## ⚙️ Getting Started
+## 🚀 Getting Started
 
 ### Clone the Repository
 
@@ -95,42 +103,56 @@ cd Netflix-Clone
 
 Simply open **index.html** in your browser.
 
-Or use **Live Server** in VS Code for a better development experience.
+Or use the **Live Server** extension in Visual Studio Code.
 
 ---
 
 ## 📱 Responsive Design
 
-The website is optimized for:
+This project is fully responsive and optimized for:
 
 - 💻 Desktop
-- 💻 Laptop
+- 💼 Laptop
 - 📱 Tablet
-- 📱 Mobile
+- 📲 Mobile
 
 ---
 
-## 🎯 Learning Objectives
+## 📚 What I Learned
 
-This project helped me practice:
+During this project, I practiced and improved my skills in:
 
-- Semantic HTML
-- Modern CSS Layouts
-- Flexbox & Grid
+- Semantic HTML5
+- Modern CSS
+- Flexbox & CSS Grid
 - Responsive Web Design
 - JavaScript DOM Manipulation
 - ES6 Modules
 - Form Validation
+- Component-based File Structure
 - Git & GitHub Workflow
+
+---
+
+## 📌 Future Improvements
+
+- 🎬 Movie Slider Animation
+- 🌙 Dark/Light Theme Toggle
+- 🔍 Search Functionality
+- 👤 User Authentication UI
+- 🎞️ Dynamic Movie Data using API
+- 🎥 Video Trailer Modal
+- ❤️ Watchlist Feature
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome!
+Contributions are always welcome!
 
 1. Fork the repository
-2. Create a new branch
+
+2. Create your feature branch
 
 ```bash
 git checkout -b feature-name
@@ -139,10 +161,10 @@ git checkout -b feature-name
 3. Commit your changes
 
 ```bash
-git commit -m "Add new feature"
+git commit -m "Add your feature"
 ```
 
-4. Push your branch
+4. Push to the branch
 
 ```bash
 git push origin feature-name
@@ -154,13 +176,13 @@ git push origin feature-name
 
 ## ⭐ Show Your Support
 
-If you found this project useful, please consider giving it a ⭐ on GitHub!
+If you like this project, please consider giving it a ⭐ on GitHub. It really helps!
 
 ---
 
 ## 👨‍💻 Author
 
-**Soham Neswankar**
+### Soham Neswankar
 
 - GitHub: https://github.com/SOHAM5128
 
@@ -170,6 +192,14 @@ If you found this project useful, please consider giving it a ⭐ on GitHub!
 
 This project is licensed under the **MIT License**.
 
+Feel free to use this project for learning and personal development.
+
 ---
 
-### ⭐ If you like this project, don't forget to star the repository!
+<div align="center">
+
+### 🌟 Don't forget to Star this Repository! 🌟
+
+Made with ❤️ by **Soham Neswankar**
+
+</div>
